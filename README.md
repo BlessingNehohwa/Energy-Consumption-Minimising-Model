@@ -1,4 +1,4 @@
-# Energy-Consumption-Minimising-Model
+# Energy-Consumption-Optimising-Model
 Use Deep Q-Learning model to optimize energy consumption of a data center
 
 This project leverages an AI deep learning model to optimize and reduce the energy consumption of a data center by up to 70%.
