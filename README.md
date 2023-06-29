@@ -10,10 +10,12 @@ Reminder (wikipedia): Reinforcement learning involves an agent, a set of states 
 
 The learning phase uses "Experience Replay" technique to train.
 
+![](http://url/to/img.png)
+
 ![](Q_Learning_Neural _Network.png)
 
 # Results
 
 The percentage of energy saved varies depending on the experiments. The percentage is determined simulating one full year cycle.
 
-![](Energy Saved.png)
+![](https://github.com/BlessingNehohwa/Energy-Consumption-Minimising-Model/blob/main/Energy%20Saved.png)
