@@ -2,7 +2,7 @@
 Use Deep Q-Learning model to optimize energy consumption of a data center
 
 This project leverages an AI deep learning model to optimize and reduce the energy consumption of a data center by up to 70%.
-
+![Energy Consumption Optimisaation Model Code](https://github.com/BlessingNehohwa/Energy-Consumption-Minimising-Model/blob/main/Energy%20Consumption%20Optimising%20%20Model-checkpoint.ipynb).
 # Q-Learning
 Q-Learning is a reinforcement learning algorithm to learn quality of actions telling an agent what action to take under what circumstances. It determines the value of all possible actions given a certain state (or circumstances). It does not require a model of the environment as it learns the environment while exploring it.   
 
